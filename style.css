@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    background-color: skyblue;
+}
+div{
+    height: 100px;
+    width: 300px;
+    border: black 2px dashed;
+}
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+#boton{
+    border-radius: 4px;
+    font-weight: bold;
+    background-color: white;
+}

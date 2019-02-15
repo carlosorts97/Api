@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    background-color: skyblue;
+}
+div{
+    height: 80px;
+    width: 100px
+}
+p{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.cajastotal,h1{
+    position: relative;
+    left: 40%;
+}
+footer{
+    position: relative;
+    top: 80%;
+}
+
